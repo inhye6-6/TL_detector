@@ -62,7 +62,7 @@ print(device_lib.list_local_devices())
 
 Change dataset to fit Yolov4 dataset format<br>
 - change annotation format
-- images
+- split data
 - train.txt
 - test.txt
 - tl.name
