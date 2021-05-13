@@ -98,8 +98,8 @@ def txtmodify(input_file):
                     odj_class='1'
                 else: odj_class=str(int(input_list[4])%10)
                 xcenter = ((float(input_list[0])+float(input_list[2]))/2)/2048
-                ycenter = ((float(input_list[1])+float(input_list[3]))/2)/2048
-                width = (float(input_list[2])-float(input_list[0]))/1536
+                ycenter = ((float(input_list[1])+float(input_list[3]))/2)/1536
+                width = (float(input_list[2])-float(input_list[0]))/2048
                 height = (float(input_list[3])-float(input_list[1]))/1536
                 
                 out_string  += odj_class+' '+str(xcenter)+' '+str(ycenter)+' '+str(width)+' '+str(height)+'\n'
