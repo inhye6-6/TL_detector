@@ -72,7 +72,7 @@ Change dataset to fit Yolov4 dataset format<br>
 ##### yolov4's annotaition.txt format: [object-class-id] [x-center] [y-center] [width] [height]<br>
 
 ##### [Traffic Lights id ]<br>
-![traffic_lights_.png](attachment:traffic_lights_.png)
+![traffic_lights_](https://user-images.githubusercontent.com/80514503/118099348-0f0e3d80-b410-11eb-8496-8d7b712db926.png)
 
 #####  [x-center] [y-center] [width] [height]
 Ratio of total image size<br>
