@@ -305,6 +305,7 @@ f.close()
 
 ## 3. Train custom data
 
+max batches =18000 (9*2000)
 
 ```python
 %cd /Users/PC921/Traffic_lights/vcpkg/installed/x64-windows/tools/darknet/
@@ -320,7 +321,6 @@ f.close()
 ```
 
 ## 4. Test demo
-
 1) testdemo1
 
 
